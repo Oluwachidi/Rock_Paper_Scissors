@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=2
+ReferrerUrl=http://localhost:8888/notebooks/rps_app.ipynb
+HostUrl=http://localhost:8888/nbconvert/script/rps_app.ipynb?download=true
